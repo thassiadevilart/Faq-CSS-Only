@@ -30,9 +30,10 @@ main{
 }
 
 h1{
-    font-size: 3rem;
-    font-weight: 500;
+    font-size: 5rem;
+    font-weight: 600;
     letter-spacing: 4px;
+    text-transform: uppercase;
     
     margin-top: 75px;
 }
@@ -182,14 +183,13 @@ input:checked + label{
     font-size: 1.3rem;
 
     position: fixed;
-
     right: 0;
     bottom: 0;
-    cursor: pointer;
 
     padding: 20px;
     margin-bottom: 30px;
     margin-right:50px ;
+    cursor: pointer;
 
     color: white;
     border-radius: 50%;
@@ -250,7 +250,7 @@ input:checked + label{
 
     main {
       flex-direction: column;
-      --first-column-height: 280px;
+      --first-column-height: 200px;
     }
     
     .first-column{
@@ -263,10 +263,10 @@ input:checked + label{
     }
 
     h1{
-        font-size: 1.7rem;
+        font-size: 2rem;
         text-align: center;
 
-        margin-top: 30px;
+        margin: 0;
     }
 
     h2{
