@@ -1,7 +1,7 @@
 ## FAQ CSS Only
 Toggling elements with a hidden checkbox.
 https://thassiadevilart.github.io/Faq-CSS-Only/
-![Imgur](https://imgur.com/a/FHeHChJ)
+![Imgur]([Imgur](https://imgur.com/mSihOys))
 UI: Thassia Devilart
 
 ### Documentation
